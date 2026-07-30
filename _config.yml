@@ -21,7 +21,7 @@
 title: esenecal
 email: edwin.senecal@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! I'm Edwin, a CS undergrad. Here, I've put information about my various projects, things I would like to remember,
+  I'm Edwin, a CS undergrad. Here, I've put information about my various projects, things I would like to remember,
   and other things I find interesting. Feel free  to send me an email!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.comtwitter_username: jekyllrb
